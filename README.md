@@ -1,1 +1,2 @@
-# ALura-Start
+# Alura-Start
+Projeto 2A - Ruth 
