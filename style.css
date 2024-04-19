@@ -11,9 +11,9 @@ body{
 }
 
 .cabeçalho-lista-item{
-    display: inline-block;
-    margin: 0 18px;
-    font-size: 24px;
+        display: inline-block;
+        margin: 0 18px;
+        font-size: 24px;
 }
 
 .logo{
