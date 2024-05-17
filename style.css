@@ -45,25 +45,29 @@ body{
 }
 
 .estudante-1{
-    width: 15%;
+    width: 10%;
 }
 
 .estudante-2{
-    width: 15%;
+    width: 10%;
 }
 
 .estudante-3{
-    width: 15%;
+    width: 10%;
 }
 
 .estudante-4{
-    width: 15%;
+    width: 10%;
 }
 
 .estudante-5{
-    width: 15%;
+    width: 10%;
 }
 
 .estudante-6{
-    width: 15%;
+    width: 10%;
+}
+
+.estudante-icone{
+    width: 20px;
 }
