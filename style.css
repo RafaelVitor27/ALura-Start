@@ -44,28 +44,9 @@ body{
     padding: 24px 0;
 }
 
-.estudante-1{
-    width: 10%;
-}
-
-.estudante-2{
-    width: 10%;
-}
-
-.estudante-3{
-    width: 10%;
-}
-
-.estudante-4{
-    width: 10%;
-}
-
-.estudante-5{
-    width: 10%;
-}
-
-.estudante-6{
-    width: 10%;
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 16% 16% 16% 16% 16% 16%;
 }
 
 .estudante-icone{
